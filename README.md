@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Allan.
+- 👀 I’m interested in help with my codes and learn with others codes,
+- 🌱 I’m currently learning more about Python.
+- 💞️ I’m looking to collaborate on my codes to help others people.
